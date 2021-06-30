@@ -1,0 +1,5 @@
+2021-06-30 09:07:46.6976|INFO|DiscordBot.MODERATION_PROGRAM.Cow|deez nuts
+2021-06-30 09:09:04.9813|INFO|User Message|y
+2021-06-30 09:11:38.1157|INFO|User Message|print me a frik pls
+2021-06-30 09:17:02.5246|INFO|User Message|deez nuts
+2021-06-30 09:17:06.5372|INFO|User Message|there's more
